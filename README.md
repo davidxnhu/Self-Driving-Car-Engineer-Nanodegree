@@ -59,7 +59,7 @@ Safely navigate a self-driving car around a virtual highway with other traffic t
 
 ![path_planning](https://github.com/davidxnhu/Self-Driving-Car-Engineer-Nanodegree/blob/main/Images/P7.gif)
 
-[Source](https://github.com/markmisener/udacity-self-driving-car-engineer/tree/main/p7%20path-planning)
+[Source](https://github.com/davidxnhu/Self-Driving-Car-Engineer-Nanodegree/tree/main/P7%20Path-Planning)
 
 ### PID controller
 
