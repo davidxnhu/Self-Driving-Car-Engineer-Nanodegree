@@ -19,6 +19,7 @@ Find lane markings in images and video using color transformations, gradients, a
 
 ![example](./Images/P2.gif)  
 _Lane detections with curvature and offset_
+
 [Source](https://github.com/davidxnhu/Self-Driving-Car-Engineer-Nanodegree/tree/main/P2%20Advanced-Lane-Lines)
 
 ### Traffic sign classifier
